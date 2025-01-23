@@ -1,1 +1,3 @@
-kokoa-clone 연습하기
+# Kokoa Clone
+
+CSS got so much better!
